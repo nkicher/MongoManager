@@ -1,0 +1,20 @@
+String,String,String,String,int,int,String,String,boolean,boolean,int,int
+screen,displayName,filterType,displayFormat,filterIndex,fieldIndex,dbField,value,dirty,editable,updateStringOrder,updateStringLength
+cbv_modify_mnemonic,Mnemonic Code,text,text,1,1,MNEM_CD,,FALSE,FALSE,1,4
+cbv_modify_mnemonic,Title,text,text,2,2,MNEM_TITLE,,FALSE,TRUE,4,30
+cbv_modify_mnemonic,Frequency,text,text,3,3,MNEM_RT_CALC_PER,,FALSE,TRUE,5,1
+cbv_modify_mnemonic,Default Effective Date Code,text,text,4,4,DFLT_EFF_DT_CD,,FALSE,TRUE,6,2
+cbv_modify_mnemonic,Effective Date,date,YYYY-MM-DD,-1,5,MNEM_EFF_DT,,FALSE,FALSE,2,10
+cbv_modify_mnemonic,Expiration Date,date,YYYY-MM-DD,-1,6,MNEM_EXP_DT,,FALSE,FALSE,3,10
+cbv_modify_rates,Mnemonic Code,text,text,1,1,MNEM_CD,,FALSE,FALSE,1,4
+cbv_modify_rates,Title,text,text,2,2,MNEM_TITLE,,FALSE,TRUE,4,30
+cbv_modify_rates,Frequency,text,text,3,3,MNEM_RT_CALC_PER,,FALSE,TRUE,5,1
+cbv_modify_rates,Default Effective Date Code,text,text,4,4,DFLT_EFF_DT_CD,,FALSE,TRUE,6,2
+cbv_modify_rates,Effective Date,date,YYYY-MM-DD,-1,5,MNEM_EFF_DT,,FALSE,FALSE,2,10
+cbv_modify_rates,Expiration Date,date,YYYY-MM-DD,-1,6,MNEM_EXP_DT,,FALSE,FALSE,3,10
+cbv_modify_test2,Mnemonic Code,text,text,1,1,MNEM_CD,,FALSE,FALSE,1,4
+cbv_modify_test2,Title,text,text,2,2,MNEM_TITLE,,FALSE,TRUE,4,30
+cbv_modify_test2,Frequency,text,text,3,3,MNEM_RT_CALC_PER,,FALSE,TRUE,5,1
+cbv_modify_test2,Default Effective Date Code,text,text,4,4,DFLT_EFF_DT_CD,,FALSE,TRUE,6,2
+cbv_modify_test2,Effective Date,date,YYYY-MM-DD,-1,5,MNEM_EFF_DT,,FALSE,FALSE,2,10
+cbv_modify_test2,Expiration Date,date,YYYY-MM-DD,-1,6,MNEM_EXP_DT,,FALSE,FALSE,3,10

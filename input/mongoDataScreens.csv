@@ -1,0 +1,5 @@
+String,String,String,String,String,String,String,String,String,int,int
+name,displayName,mnemonic,dbDataSource,dbSchema,dbTable,dbTablePk,dbTablePkValue,dbSp,dbSpInputLength,dbSpOutputLength
+cbv_modify_mnemonic,Modify Mnemonic,CBV,DB2,POWRBCAP,A_CBV_MNEMONIC,MNEM_CD,,CBV_CBVSPMNM,199,200
+cbv_modify_rates,Modify Rates,CBV,DB2,POWRBCAP,A_CBV_MNEMONIC,MNEM_CD,,CBV_CBVSPMNM,199,200
+cbv_modify_test2,Modify Test,CBV,DB2,POWRBCAP,A_CBV_MNEMONIC,MNEM_CD,,CBV_CBVSPMNM,199,200
